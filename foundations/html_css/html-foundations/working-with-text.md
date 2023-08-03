@@ -195,4 +195,5 @@ This section contains questions for you to check your understanding of this less
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
 
 *   [The semantic difference between &lt;strong> and &lt;b> or &lt;em> and &lt;i> tags and when to use them.](https://medium.com/@zac_heisey/when-to-use-strong-b-em-and-i-tags-in-your-markup-fa4d0af8affb)
+*   [&lt;strong> v/s &lt;b> v/s &lt;em> and different ways in which they add emphasis to text](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong#b_vs._strong)
 *   [An interactive HTML text formatting article](https://www.w3schools.com/html/html_formatting.asp)
